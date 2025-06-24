@@ -120,13 +120,6 @@ The frontend will run on [http://localhost:3000](http://localhost:3000).
 - `server/models/` - Mongoose models for User, Listing, Booking
 - `server/routes/` - Express route handlers
 
-## 👥 Contributors
-
-<!-- Example Contributor -->
-<a href="https://github.com/dhrumil1508">
-  <img src="https://avatars.githubusercontent.com/dhrumil1508" width="100px;" alt="dhrumil1508"/>
-  <br />
-
 ### 📄 License
 
 Licensed under the MIT license.
